@@ -34,9 +34,13 @@ We welcome contributions from the community! If you’d like to contribute: Open
 ## 📜 License
 
 Unless stated otherwise, content in this organization is released under:
+
 Code: **MIT** license.
 
 Data:  **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. 
 
 Use it. Build on it. Just credit *Okalai*.
+
+[![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
