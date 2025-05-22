@@ -41,7 +41,9 @@ We welcome contributions from the community! If you’d like to contribute: Open
 
 ## 📜 License
 
-Unless stated otherwise, content in this organization is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+Unless stated otherwise, content in this organization is released under:
+Code: MIT
+Data:  **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
 Use it. Build on it. Just credit *Okalai*.
 
 ---
