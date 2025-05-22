@@ -3,8 +3,6 @@
 **Okalai AI: NLP for Namibian Languages**  
 We release datasets, tools, and model code developed by Okalai AI for building natural language processing (NLP) systems for Namibian languages. These resources are part of Okalai’s broader mission to advance AI research and capacity in Namibia.
 
-Our goal: to make African NLP not just visible — but visionary.
-
 ---
 
 ## 📁 Contents
@@ -17,11 +15,11 @@ This GitHub organization currently includes:
 - [`MoIMoE`](https://github.com/okalai-ai/moimoe)  
   Typology-Driven Adaptation for Bantu NLP.
 
-More tools, systems, and = datasets to come.
+More tools, systems, and datasets to come.
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Each repository is self-contained. Please see individual READMEs for setup, data access, and evaluation instructions.
 
@@ -42,8 +40,3 @@ Data:  **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
 Use it. Build on it. Just credit *Okalai*.
 
----
-
-> *“We don’t just build for African languages.  
-> We build with memory, precision, and care.”*  
-> — The Okalai Ethos
