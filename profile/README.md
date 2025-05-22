@@ -6,10 +6,10 @@
   <a href="https://github.com/okalai-ai">💻 GitHub</a>
 </p>
 
-
-
 We build datasets, tools, and models that include forgotten or underrepresented languages, while advancing a broader multilingual research agenda.
 Our mission is to reshape what AI can learn, understand, and represent across the world’s language
+
+
 ---
 
 ## 📁 Contents
