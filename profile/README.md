@@ -11,19 +11,13 @@ Our goal: to make African NLP not just visible — but visionary.
 
 This GitHub organization currently includes:
 
-- [`latentlex`](https://github.com/okalai-ai/latentlex)  
-  A framework for probing lexical knowledge in multilingual LLMs using both supervised and reference-free evaluation.
+- [`MoIMoE`](https://github.com/okalai-ai/moimoe)  
+  Typology-Driven Adaptation for Bantu NLP.
 
-- [`datasets-latentlex-africa`](https://github.com/okalai-ai/datasets-latentlex-africa)  
-  Bilingual dictionaries across 21 African languages, curated from historical archives.
+- [`MoIMoE`](https://github.com/okalai-ai/moimoe)  
+  Typology-Driven Adaptation for Bantu NLP.
 
-- [`datasets-latentlex-world`](https://github.com/okalai-ai/datasets-latentlex-world)  
-  A global reference-free benchmark for lexical coverage across 34 languages.
-
-- [`okalai-metrics`](https://github.com/okalai-ai/okalai-metrics) *(coming soon)*  
-  Lightweight implementations of `Agree-chrF` and `Back-chrF` — two metrics for multilingual LLM evaluation without gold references.
-
-More tools, MT systems, and QA datasets to come.
+More tools, systems, and = datasets to come.
 
 ---
 
@@ -42,8 +36,10 @@ We welcome contributions from the community! If you’d like to contribute: Open
 ## 📜 License
 
 Unless stated otherwise, content in this organization is released under:
-Code: MIT
-Data:  **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+Code: **MIT** license.
+
+Data:  **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. 
+
 Use it. Build on it. Just credit *Okalai*.
 
 ---
