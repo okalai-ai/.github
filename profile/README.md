@@ -1,7 +1,7 @@
 # 🌍 Okalai
 
-**Description**  
-Okalai is a research and development studio focused on high-integrity, interpretable, and equitable tools for African and multilingual NLP. We build datasets, evaluation metrics, and lightweight frameworks — with a special focus on underrepresented languages like Kwanyama, Ndonga, and other Bantu languages of Southern Africa.
+**Okalai AI: NLP for Namibian Languages**  
+We release datasets, tools, and model code developed by Okalai AI for building natural language processing (NLP) systems for Namibian languages. These resources are part of Okalai’s broader mission to advance AI research and capacity in Namibia.
 
 Our goal: to make African NLP not just visible — but visionary.
 
@@ -35,8 +35,7 @@ Each repository is self-contained. Please see individual READMEs for setup, data
 
 ## 🤝 Contributing
 
-We welcome thoughtful, respectful contributions from the community.  
-If you'd like to collaborate on African lexicons, metrics, or evaluation tools, open an issue or pull request — or reach out directly.
+We welcome contributions from the community! If you’d like to contribute: Open an issue for questions, bugs, or feature requests. Submit a pull request for improvements or new datasets/tools. Reach out if you’d like to collaborate on Namibian language resource
 
 ---
 
