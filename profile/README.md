@@ -1,4 +1,4 @@
-<h1 align="center">Okalai AI Github 🌍</h1>
+<h1 align="center">Okalai AI GitHub 🌍</h1>
 
 <p align="center">
   <em>Researching the next generation of multilingual AI. Expanding the map, one language at a time. </em><br/>
