@@ -1,6 +1,12 @@
-# 🌍 Okalai
+<h1 align="center">Welcome to Okalai AI 🌍</h1>
 
-**Okalai AI: NLP for Namibian Languages**  
+<p align="center">
+  <em>Natural language processing (NLP) for Namibian languages </em><br/>
+  <a href="https://okalai.org">🌐 Website</a> | 
+  <a href="https://github.com/okalai-ai">💻 GitHub</a>
+</p>
+
+
 We release datasets, tools, and model code developed by Okalai AI for building natural language processing (NLP) systems for Namibian languages. These resources are part of Okalai’s broader mission to advance AI research and capacity in Namibia.
 
 ---
