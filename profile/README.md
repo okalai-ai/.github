@@ -16,10 +16,10 @@ Our mission is to reshape what AI can learn, understand, and represent across th
 
 This GitHub organization currently includes:
 
-- [`MoIMoE`](https://github.com/okalai-ai/moimoe)  
-  Typology-Driven Adaptation for Bantu NLP.
+- [`OkaSentiment and OkaLM`](https://github.com/okalai-ai/okaResource) (LREC 2026)
+  Language Models for Kwanyama (1B, 3B, 8B)
 
-- [`MoIMoE`](https://github.com/okalai-ai/moimoe)  
+- [`MoIMoE`](https://github.com/okalai-ai/moimoe)   (ACL 2025)
   Typology-Driven Adaptation for Bantu NLP.
 
 More tools, systems, and datasets to come.
