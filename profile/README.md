@@ -14,7 +14,7 @@ Our mission is to reshape what AI can learn, understand, and represent across th
 
 ## 📁 Contents
 
-This GitHub organization currently includes:
+Repos:
 
 - [`OkaSentiment and OkaLM`](https://github.com/okalai-ai/okaResource) (LREC 2026)
   Language Models for Kwanyama (1B, 3B, 8B)
