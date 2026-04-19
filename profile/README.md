@@ -19,13 +19,12 @@ Repos:
   Grammar-as-control for typology-aware synthetic data generation in low-resource languages
 
 - [`OkaLM`](https://github.com/okalai-ai/okaResource) (LREC 2026)
-  Language Models for Kwanyama (1B, 3B, 8B)
+  Language Models for [Kwanyama](https://okalex.org/) (1B, 3B, 8B)
 
 - [`MoIMoE`](https://github.com/okalai-ai/moimoe)   (ACL 2025)
   Typology-Driven Adaptation for Bantu NLP.
 
 More tools, systems, and datasets to come.
-
 ---
 
 ## Usage
