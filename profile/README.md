@@ -18,7 +18,7 @@ Repos:
 - [`mTIG`](https://github.com/okalai-ai/mtig) (ACL 2026)
   Grammar-as-control for typology-aware synthetic data generation in low-resource languages
 
-- [`OkaSentiment and OkaLM`](https://github.com/okalai-ai/okaResource) (LREC 2026)
+- [`OkaLM`](https://github.com/okalai-ai/okaResource) (LREC 2026)
   Language Models for Kwanyama (1B, 3B, 8B)
 
 - [`MoIMoE`](https://github.com/okalai-ai/moimoe)   (ACL 2025)
